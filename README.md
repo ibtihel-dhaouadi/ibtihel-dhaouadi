@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="161" src="https://i.postimg.cc/HxRFRmVP/Copy-of-Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
+  <img weight="220" src="https://i.postimg.cc/HxRFRmVP/Copy-of-Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<h5 align="left">I'm a recent graduate with a Master's degree in Business Analytics and Data Science. I'm passionate about applying Machine Learning, NLP, and Data-Driven Solutions to solve real-world problems.<br><br>🤝 Open to Opportunities:<br>I'm actively seeking internships, full-time job, remote job, freelance, or collaborative projects where I can contribute and grow in the fields of AI/ML, NLP, and data analytics.<br><br>📫 Let's connect and build something impactful together!</h5>
+<h3 align="left">I'm a recent graduate with a Master's degree in Business Analytics and Data Science. I'm passionate about applying Machine Learning, NLP, and Data-Driven Solutions to solve real-world problems.<br><br>🤝 Open to Opportunities:<br>I'm actively seeking internships, full-time job, remote job, freelance, or collaborative projects where I can contribute and grow in the fields of AI/ML, NLP, and data analytics.<br><br>📫 Let's connect and build something impactful together!</h3>
 
 ###
 
@@ -114,17 +114,10 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibtihel-dhaouadi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="110" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibtihel-dhaouadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="110" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ibtihel-dhaouadi&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="235" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibtihel-dhaouadi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibtihel-dhaouadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="190" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ibtihel-dhaouadi&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" weight="220" alt="streak graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibtihel-dhaouadi/ibtihel-dhaouadi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibtihel-dhaouadi/ibtihel-dhaouadi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ibtihel-dhaouadi/ibtihel-dhaouadi/output/pacman-contribution-graph.svg">
-</picture>
-
-###
