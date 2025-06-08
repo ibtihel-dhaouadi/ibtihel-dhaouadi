@@ -35,7 +35,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ibtihel-dhaouadi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=in&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.kaggle.com/dhaouadiibtihel98" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=kaggle&logo=twitter&label=K&color=1DA1F2&logoColor=white&labelColor=1DA1F2&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://wa.me/+21692264106" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
