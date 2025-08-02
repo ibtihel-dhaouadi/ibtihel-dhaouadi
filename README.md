@@ -1,16 +1,9 @@
-<div align="center">
-  <img weight="220" src="https://i.postimg.cc/HxRFRmVP/Copy-of-Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
-</div>
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ibtihel-dhaouadi.ibtihel-dhaouadi&"  />
 
 ###
 
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ibtihel-dhaouadi.ibtihel-dhaouadi&"  />
-
-###
-
-<br clear="both">
 
 <h2 align="center">Hi 👋, I'm Ibtihel - Data Enthusiast & AI Explorer</h2>
 
